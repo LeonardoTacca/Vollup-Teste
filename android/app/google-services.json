@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968378357855",
+    "project_id": "entrevista-vollup",
+    "storage_bucket": "entrevista-vollup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968378357855:android:ea3664b4044fcb1012e3ea",
+        "android_client_info": {
+          "package_name": "com.example.vollup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968378357855-go3aubgm8q6rvh78kamu1uic7vo4hho2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vollup",
+            "certificate_hash": "cb8fd25a8bf6b0609b963a5a46b0bce113c77339"
+          }
+        },
+        {
+          "client_id": "968378357855-jd2vc62b4hehib65pmvkq5i4j9t3jrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUWwT2OdPxfTZMg6zpff2D0aP6EY0bZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968378357855-jd2vc62b4hehib65pmvkq5i4j9t3jrbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
